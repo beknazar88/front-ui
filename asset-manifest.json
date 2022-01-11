@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/front-ui/static/css/main.828c0521.css",
+    "main.js": "/front-ui/static/js/main.b1f277a4.js",
+    "static/js/787.edd59a96.chunk.js": "/front-ui/static/js/787.edd59a96.chunk.js",
+    "static/media/footer-tab.svg": "/front-ui/static/media/footer-tab.cc05818080f7d43c887be6a1c0f46ee4.svg",
+    "static/media/kg.svg": "/front-ui/static/media/kg.d93135254c18c5e83582a551d4975346.svg",
+    "static/media/logoGNS.svg": "/front-ui/static/media/logoGNS.9a1a201683b7b617cd2d2081a8c94770.svg",
+    "static/media/cabinetNP.svg": "/front-ui/static/media/cabinetNP.ea4fc5e5e0c5d6fdfa4b71bb5a3d82b2.svg",
+    "static/media/KKM.svg": "/front-ui/static/media/KKM.b4a4fad8128214c1617e9d2b426a118f.svg",
+    "static/media/smart-logo.svg": "/front-ui/static/media/smart-logo.60b92d816cf1ff190a6fc4d59f2894be.svg",
+    "static/media/slick.svg": "/front-ui/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/front-ui/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/front-ui/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/front-ui/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/ESF.svg": "/front-ui/static/media/ESF.91a814156fee57cc0d479dfd4a73cc9b.svg",
+    "index.html": "/front-ui/index.html",
+    "static/media/MT.svg": "/front-ui/static/media/MT.911b4e15885309cc25e7692f2f67deb6.svg",
+    "static/media/isnak.svg": "/front-ui/static/media/isnak.e4360beb95ecdfc571fd5dafbf5a1d3d.svg",
+    "static/media/ACB.svg": "/front-ui/static/media/ACB.8c4be5885a228504ac441eb27a73e7bb.svg",
+    "static/media/budget-card-logo.svg": "/front-ui/static/media/budget-card-logo.37e659e0837fec8cfe1462cf73a9ec08.svg",
+    "static/media/budgetRed.svg": "/front-ui/static/media/budgetRed.8ce95b3265ecfc2effb2c86faca1a477.svg",
+    "static/media/budgetViolet.svg": "/front-ui/static/media/budgetViolet.971e5816304713f59d501243bfe659ee.svg",
+    "static/media/edc-log-y.svg": "/front-ui/static/media/edc-log-y.a02073d636419113a984d44473aa5ed7.svg",
+    "static/media/edec-log-blue.svg": "/front-ui/static/media/edec-log-blue.37e659e0837fec8cfe1462cf73a9ec08.svg",
+    "static/media/edec-log-green.svg": "/front-ui/static/media/edec-log-green.0a6251c20564fb557bea40f5a7dbffdf.svg",
+    "static/media/E-patent.svg": "/front-ui/static/media/E-patent.90224899ebc0c445a71257874a4b07db.svg",
+    "static/media/footer.svg": "/front-ui/static/media/footer.5f155e95cb92915e16c19a530b7b12ed.svg",
+    "main.828c0521.css.map": "/front-ui/static/css/main.828c0521.css.map",
+    "main.b1f277a4.js.map": "/front-ui/static/js/main.b1f277a4.js.map",
+    "787.edd59a96.chunk.js.map": "/front-ui/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828c0521.css",
+    "static/js/main.b1f277a4.js"
+  ]
+}
